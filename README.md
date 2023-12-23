@@ -45,6 +45,5 @@ Task - 2
 🔸 For the top 5 countries, i want to know the top 5 products and bottom 5 products based on GM% grouth YoY and the post discounts %trends for each of these customers
 
 I had an amazing exprerience learning power BI,
-➡ Github -https://lnkd.in/gJnyyDgX
 ➡ Power BI Dashboard -https://lnkd.in/gV_uDbve
 
